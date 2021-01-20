@@ -14,7 +14,10 @@ Included in this project are the necessary Spring and Hibernate JAR files. One n
 
 ### Setting up
 
-Open MySQL Workbench in a local instance. Make sure you already have a user with all privaliges.  If not, run the create-user.sql script in /src
+Open MySQL Workbench in a local instance. Make sure you already have a user with all privileges.  If not, run the create-user.sql script in /src/com/stwijn/myseriesdb. Next, run the script create-myseries-db.sql.
+
+Import project into Eclipse, or your prefered IDE, 
+
 
 
 
