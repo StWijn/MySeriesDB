@@ -5,7 +5,7 @@ In the midst of our current technological advancements, and the thousands of opt
 *As such, MySeriesDB was made.*
 
 ## Technologies and prerequisites
-*Used:* Eclipse IDE, Spring MVC, Hibernate, MySQL and Tomcat
+*Used:* Eclipse IDE, Spring MVC, Hibernate, MySQL, jdbc and Tomcat
 
 Included in this project are the necessary Spring and Hibernate JAR files. One needs to download and install [Tomcat](http://tomcat.apache.org/) aswell as have [MySQL](https://dev.mysql.com/downloads/mysql/) up and running. Relevant MySQL scripts are provided below.
 
@@ -14,8 +14,11 @@ Included in this project are the necessary Spring and Hibernate JAR files. One n
 
 ### Setting up
 
-Open MySQL Workbench in a local instance. Make sure you already have a user with all privileges.  If not, run the create-user.sql script in /src/com/stwijn/myseriesdb. Next, run the script create-myseries-db.sql.
-
-Import project into Eclipse, right click the project and click "run on server". Select "Tomcat v9.0 Server" and leave the defaults, click on "finish".
+1. Open MySQL Workbench in a local instance (root/localhost 3306). 
+2. If you already have a user with all privileges, see below.  If not, run the create-user.sql script located in /src/com/stwijn/myseriesdb and after that run the create-myseries-db-sql script also located in /src/com/stwijn/myseriesdb. 
+3. Import project into Eclipse, right click the project and click "run on server". Select "Tomcat v9.0 Server" and leave the defaults, click on "finish".
 You can now go to http://localhost:8080/myseries-db/ in your internet browser or your IDE, and keep track of your favorite series!
+
+
+**By default, access to database is configured for username "admin" and password "admin" (without quotes)**. If you want to change this, go to file config.xml and see line# 38 and 39, you can change the username and password here. To verify a succesfull setup, run (run on server) TestDB.java. 
 
