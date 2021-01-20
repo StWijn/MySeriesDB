@@ -16,9 +16,6 @@ Included in this project are the necessary Spring and Hibernate JAR files. One n
 
 Open MySQL Workbench in a local instance. Make sure you already have a user with all privileges.  If not, run the create-user.sql script in /src/com/stwijn/myseriesdb. Next, run the script create-myseries-db.sql.
 
-Import project into Eclipse, or your prefered IDE, 
+Import project into Eclipse, right click the project and click "run on server". Select "Tomcat v9.0 Server" and leave the defaults, click on "finish".
+You can now go to http://localhost:8080/myseries-db/ in your internet browser or your IDE, and keep track of your favorite series!
 
-
-
-
-http://localhost:8080/myseries-db/
