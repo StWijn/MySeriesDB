@@ -5,7 +5,7 @@ In the midst of our current technological advancements, and the thousands of opt
 *As such, MySeriesDB was made.*
 
 ## Technologies and prerequisites
-*Used:* Eclipse IDE, Spring MVC, Hibernate, MySQL, jdbc and Tomcat
+*Used:* Eclipse IDE, Spring MVC, Hibernate, MySQL and Tomcat
 
 Included in this project are the necessary Spring and Hibernate JAR files. One needs to download and install [Tomcat](http://tomcat.apache.org/) aswell as have [MySQL](https://dev.mysql.com/downloads/mysql/) up and running. Relevant MySQL scripts are provided below.
 
