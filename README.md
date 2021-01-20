@@ -13,3 +13,9 @@ Included in this project are the necessary Spring and Hibernate JAR files. One n
 ![Image of MySeriesDB](https://i.imgur.com/lwKFNuQ.png)
 
 ### Setting up
+
+Open MySQL Workbench in a local instance. Make sure you already have a user with all privaliges.  If not, run the create-user.sql script in /src
+
+
+
+http://localhost:8080/myseries-db/
