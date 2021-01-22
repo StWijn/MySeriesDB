@@ -20,5 +20,5 @@ Included in this project are the necessary Spring and Hibernate JAR files. One n
 You can now go to http://localhost:8080/myseries-db/ in your internet browser or your IDE, and keep track of your favorite series!
 
 
-**By default, access to database is configured for username "admin" and password "admin" (without quotes)**. If you want to change this, go to file config.xml and see line# 38 and 39, you can change the username and password here. To verify a succesfull setup, run (run on server) TestDB.java. 
+**By default, access to database is configured for username "admin" and password "admin" (without quotes)**. If you want to change this, go to file config.xml and see line# 38 and 39, you can change the username and password here. To verify a succesfull setup, run (run on server) TestDB.java.
 
