@@ -1,6 +1,6 @@
 # MySeriesDB
 
-In the midst of our current technological advancements, and the thousands of options with regards to leisure activities we are able to choose from everyday, one of the bigger problems of life that one could face is losing track of series. Series that should be on your to-watch list, or series that you have already watched a number of years ago and you totally forgot about (in the latter case, this can potentially lead to a lot of wasted time when figuring out at the end of episode 1 that you have already seen this show a number of years ago...)
+In the midst of our current technological advancements, and the thousands of options with regards to leisure activities we are able to choose from everyday, one of the bigger problems of life that one could face is losing track of series. Series that should be on your to-watch list, or series that you have already watched a number of years ago and you totally forgot about (in the latter case, this could potentially lead to a lot of wasted time when figuring out at the end of episode 1, that you have already seen this show a number of years ago...)
 
 *As such, MySeriesDB was made.*
 
