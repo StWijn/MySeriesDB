@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.luv2code.springdemo.entity.Customer;
 import com.stwijn.myseriesdb.dao.SeriesDAO;
 import com.stwijn.myseriesdb.entity.Series;
 
